@@ -19,7 +19,8 @@ The History of the Internet.
 
 
 
-## Page image link : https://coolkidproblems.com/wp-content/uploads/2017/12/simple-history-of-the-internet.jpg
+## Page image link : 
+https://coolkidproblems.com/wp-content/uploads/2017/12/simple-history-of-the-internet.jpg
 
 ## Page Image Alt attribute : Main Background Image.
 
