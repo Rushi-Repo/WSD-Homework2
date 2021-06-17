@@ -39,9 +39,9 @@ https://coolkidproblems.com/wp-content/uploads/2017/12/simple-history-of-the-int
 2. Articles
 3. People
 4. Send feedback
-5. request edit
-6. contact us
-7. about us
+5. Request edit
+6. Contact us
+7. About us
 
 ## About page : 
 
