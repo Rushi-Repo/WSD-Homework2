@@ -58,21 +58,21 @@
      bitrate
   3. Latency- time taken for bit to travel from sender to receiver.
   4. Sources of transmission:
-    1. Fiber optic cable (expensive)
-    2. Copper cable
-    3. Radio signals (wireless)
+  - Fiber optic cable (expensive)
+  - Copper cable
+  - Radio signals (wireless)  
   5. Wi-Fi- wireless fidelity- connected to ISP (internet service provider)-
      further to billions of devices and hundreds of networks
   6. IP address- each number represented in bits
-    1. Traditional IP- 32 bits
-    2. 1973- IPv4- with more than 4 billion devices
-    3. Recent- IPv6- 128 bits with over 340 unidecillion addresses
+  -  Traditional IP- 32 bits
+  -  1973- IPv4- with more than 4 billion devices
+  -  Recent- IPv6- 128 bits with over 340 unidecillion addresses 
   7. DNS (domain name system)- in this the servers are connected to
      distributed hierarchy
   8. Router- keeps track of the path of the data packets
   9. TCP- it manages the sending and receiving of all data packets.
   10. HTML (Hypertext Markup Language)- it tells the web browser that how
      a page looks.
-    1. The texts are mentioned direct as plain texts.
-    2. The pictures and videos are individually requested using specific
+  -  The texts are mentioned direct as plain texts.
+  -  The pictures and videos are individually requested using specific
        URL’s.
