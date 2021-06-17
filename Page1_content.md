@@ -71,3 +71,20 @@ circuit between a pair of end locations.
   5. 1996- The browser war- between the major players Microsoft and
      Netscape heats up.
 iii. Launched the browser of its own- Internet Explorer
+
+### Search Engines
+
+  1. 1994-95: YAHOO! , created by Jerry Yang and David Filo- electrical
+     engineering graduate students at Stanford University.
+  2. Advertising became the main focus rather than just being a search
+     engine.
+  3. By mid-1995, Yahoo grew with more advertisements and the users
+     kept on multiplying.
+  4. It proved the world that it is possible to make money on web.
+  5. Excite- rival of Yahoo came into business- founded by Joe Kraus and
+     Graham Spencer.
+  6. 1997- The companies were emerging rapidly with search engines busy
+     making portals with e-mails and chat boxes.
+  7. 1998- the GOOGLE era begun. It was invented by a graduate
+     students- Lary Page and Sergey Brin.
+
