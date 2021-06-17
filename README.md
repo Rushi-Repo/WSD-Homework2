@@ -3,7 +3,7 @@ Basic outline of the main website.
 
 ## General Information : 
 
-1. Group members : 
+Group members : 
 
   1. Rushikesh Kshirsagar
   2. Simran Assi
