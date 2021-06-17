@@ -20,7 +20,7 @@
 
 ### Page Content
 
-###1. Dot Com Bubble :
+### 1. Dot Com Bubble :
 
   1. Silicon chip or Moore law (coined by Intel co-founder) - based on
      the law that the speed and power of integrated circuit doubles
@@ -35,7 +35,7 @@
   4. 2004- Facebook goes online marking the beginning of the social
      networking era.
      
-###2. Communications
+### 2. Communications
 
   1. Digg- founded by Kevin Rose and Jay Adelson
   2. YouTube- co founder- Chad Hurley (in 2005)
@@ -51,7 +51,7 @@
       can go back online.
   11. 2003- The blog publishing platform Word Press was launched.
 
-###3. Emerging Branches
+### 3. Emerging Branches
 
   1. Information shared using bits (binary code)
   2. Bandwidth- maximum transmission capacity of device measured by
