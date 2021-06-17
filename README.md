@@ -10,7 +10,7 @@ Group members :
 
 ## 2. Concept : 
 
-The History of the Internet.
+The History of the Internet. A combination of innovation and creativity. this covers the early internet, the invention of technologies and the diverse spread of the World Wide Web. 
 
 3. Website General info : 
 
