@@ -1,12 +1,12 @@
 # WSD-Homework2
 Basic outline of the main website.
 
-General Information : 
+## General Information : 
 
 1. Group members : 1. Rushikesh Kshirsagar  
                    2. Simran Assi
 
-2. Concept : 
+## 2. Concept : 
 
 The History of the Internet.
 
@@ -17,4 +17,27 @@ The History of the Internet.
 3. (website title) - History of the Internet.
 4. (page title) - same as website title
 
-4. Website main-menu - Content goes here
+
+
+## Page image link : https://coolkidproblems.com/wp-content/uploads/2017/12/simple-history-of-the-internet.jpg
+
+## Page Image Alt attribute : Main Background Image.
+
+## Footer Menu : 
+1. Sitemap
+2. Contact
+3. Navigation
+4. Social Icons
+
+## Sidebar content : 
+
+1. Home
+2. Articles
+3. People
+4. Send feedback
+5. request edit
+6. contact us
+7. about us
+
+## About page : 
+
