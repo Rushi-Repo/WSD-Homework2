@@ -43,3 +43,6 @@ The History of the Internet.
 1. Brief info about us
 2. Contact us button
 3. Footer and Header as per website theme
+
+## Page 2 Content : 
+https://github.com/Rushi-Repo/WSD-Homework2/blob/main/Page2_content.md
