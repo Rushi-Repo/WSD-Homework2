@@ -56,7 +56,7 @@
   1. Information shared using bits (binary code)
   2. Bandwidth- maximum transmission capacity of device measured by
      bitrate
-   3. Latency- time taken for bit to travel from sender to receiver.
+  3. Latency- time taken for bit to travel from sender to receiver.
   4. Sources of transmission:
     1. Fiber optic cable (expensive)
     2. Copper cable
