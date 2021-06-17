@@ -58,3 +58,16 @@ circuit between a pair of end locations.
   15. 1990- Tim Berners-Lee developed hypertext Markup Language (HTML)
       and further introduced the World Wide Web. This led to the enormous
       web growth.
+      
+### Browser wars 
+
+  1. 1993- Marc Andreesen developed Mosaic Web Browser at University of
+     Illinois
+  2. 1994- Business venture- NETSCAPE was born with its browser named
+     Navigator.
+  3. Bill Gates- founder of Microsoft Cooperation
+  4. Vision- a PC on every desktop, home and office running on
+     Microsoft
+  5. 1996- The browser war- between the major players Microsoft and
+     Netscape heats up.
+iii. Launched the browser of its own- Internet Explorer
