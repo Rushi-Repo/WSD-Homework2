@@ -5,7 +5,7 @@
   3. Browser wars
   4. Search Engines
 - Page Title: History of the Internet
-- Description: 
+- Description: A sneak-peak into the origins, workings and growth of the internet.
 - Keywords: internet, history, technologies, network
 - Page Layout: F- Pattern
 
