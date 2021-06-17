@@ -42,6 +42,7 @@ https://coolkidproblems.com/wp-content/uploads/2017/12/simple-history-of-the-int
 
 ## About page : 
 
+https://github.com/Rushi-Repo/WSD-Homework2/blob/main/about_us.md
 
 ## Page 2 Content : 
 https://github.com/Rushi-Repo/WSD-Homework2/blob/main/Page2_content.md
